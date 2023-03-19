@@ -29,7 +29,7 @@ mvn package
 ## Start the application
 
 ```
-java -jar target/employee-app.jar
+java -jar target/helidon-examples-employee-app.jar 
 ```
 
 ## Exercise the application
