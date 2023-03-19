@@ -1,0 +1,9 @@
+app:
+  user: <user-db>
+  password: <password-user-db>
+  hosturl: <hostname>:<port>/<database_unique_name>.<host_domain_name>
+  drivertype: Array
+
+server:
+  port: 8080
+  host: 0.0.0.0
